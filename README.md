@@ -2,7 +2,7 @@
 <details open>
 <summary>Note:</summary>
 
-- [x] [02-开始学习C++](02/README.md)
+- [x] [02-开始学习C++](02)
 </details>
 
 ## Reference
